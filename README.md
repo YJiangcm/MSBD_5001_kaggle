@@ -23,3 +23,5 @@ The train.csv and test.csv are a little different from the original csvs downloa
           * open the SVT_model.ipynb
           * run all the codes, the submission csv will be saved in the current working path
 
+## LICENSE
+Please refer to [MIT License Copyright (c) 2020 YJiangcm](https://github.com/YJiangcm/Movielens1M-Movie-Recommendation-System/blob/main/LICENSE)
