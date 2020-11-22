@@ -5,7 +5,6 @@ The train.csv and test.csv are a little different from the original csvs downloa
 
 ## 1. This folder contains 5 files:
 
----------- README.md (containing some instructions)  
 ---------- train.csv (containing the train dataset)  
 ---------- test.csv (containing the test dataset)  
 ---------- Xgboost_model.ipynb (containing the xgboost model for preticting the speed of the test dataset)  
@@ -24,4 +23,4 @@ The train.csv and test.csv are a little different from the original csvs downloa
           * run all the codes, the submission csv will be saved in the current working path
 
 ## LICENSE
-Please refer to [MIT License Copyright (c) 2020 YJiangcm](https://github.com/YJiangcm/Movielens1M-Movie-Recommendation-System/blob/main/LICENSE)
+Please refer to [MIT License Copyright (c) 2020 YJiangcm](https://github.com/YJiangcm/MSBD_5001_kaggle/blob/master/LICENSE)
