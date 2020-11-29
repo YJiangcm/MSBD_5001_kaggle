@@ -1,5 +1,5 @@
 # MSBD_5001_kaggle
-This repository contains the data and codes for MSBD_5001_kaggle_competition. All the codes were written based on **python** programming language.
+This repository contains the data and codes for MSBD_5001_kaggle_competition. All the codes were written based on **python programming language**.
 
 The train.csv and test.csv are a little different from the original csvs downloaded from the kaggle competitions, because I crawled Hong Kong's 2017-2018 holiday data and added a column named "holiday" to the original train.csv and test.csv.
 
