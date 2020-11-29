@@ -15,11 +15,13 @@ The train.csv and test.csv are a little different from the original csvs downloa
 ### 2.1 Xgboost model
           * switch the working path to this folder
           * open the Xgboost_model.ipynb
+          * the required packages include: numpy, pandas, datetime, warnings, matplotlib, seaborn, sklearn, xgboost
           * run all the codes, the submission csv will be saved in the current working path
 
 ### 2.2 SVT model
           * switch the working path to this folder
           * open the SVT_model.ipynb
+          * the required packages include: numpy, pandas, time
           * run all the codes, the submission csv will be saved in the current working path
 
 ## LICENSE
