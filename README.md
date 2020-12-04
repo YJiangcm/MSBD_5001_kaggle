@@ -1,7 +1,7 @@
 # MSBD_5001_kaggle
 This repository contains the data and codes for MSBD_5001_kaggle_competition. All the codes were written based on **python programming language**.
 
-The train.csv and test.csv are downloaded from the kaggle competitions, and "weather.csv" is crawled from  http://www.worldweatheronline.com/.
+The train.csv and test.csv are downloaded from the kaggle competitions, and the weather.csv is crawled from  http://www.worldweatheronline.com/.
 
 ## 1. This folder contains 1 subfolder and 4 files:
 
