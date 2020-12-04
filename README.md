@@ -3,12 +3,12 @@ This repository contains the data and codes for MSBD_5001_kaggle_competition. Al
 
 The train.csv and test.csv are downloaded from the kaggle competitions, and "weather.csv" is crawled from  http://www.worldweatheronline.com/.
 
-## 1. This folder contains 5 files:
+## 1. This folder contains 1 subfolder and 4 files:
 
 ---------- data \
 -------------------- train.csv (containing the train dataset) \
 -------------------- test.csv (containing the test dataset) \
--------------------- weather.csv (containing the weather data) \
+-------------------- weather.csv (containing the weather data)
 
 ---------- Xgboost_model.ipynb (containing the xgboost model for preticting the speed of the test dataset)  
 ---------- SVT_model.ipynb (containing the SVT model for preticting the speed of the test dataset)  
