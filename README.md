@@ -6,9 +6,10 @@ The train.csv and test.csv are downloaded from the kaggle competitions, and "wea
 ## 1. This folder contains 5 files:
 
 ---------- data \
-         ---------- train.csv (containing the train dataset) \
+-------------------- train.csv (containing the train dataset) \
 -------------------- test.csv (containing the test dataset) \
 -------------------- weather.csv (containing the weather data) \
+
 ---------- Xgboost_model.ipynb (containing the xgboost model for preticting the speed of the test dataset)  
 ---------- SVT_model.ipynb (containing the SVT model for preticting the speed of the test dataset)  
 ---------- xgb_speed_prediction.csv (prediction result by using the Xgboost model)  
