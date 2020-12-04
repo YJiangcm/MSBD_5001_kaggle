@@ -1,7 +1,7 @@
 # MSBD_5001_kaggle
 This repository contains the data and codes for MSBD_5001_kaggle_competition. All the codes were written based on **python programming language**.
 
-The train.csv and test.csv are downloaded from the kaggle competitions, and the weather.csv is crawled from  http://www.worldweatheronline.com/.
+The train.csv and test.csv are downloaded from the kaggle competition, and the weather.csv is crawled from  http://www.worldweatheronline.com/.
 
 ## 1. The "MSBD_5001_kaggle" folder contains 1 subfolder and 4 files:
 
@@ -12,8 +12,8 @@ The train.csv and test.csv are downloaded from the kaggle competitions, and the 
 
 ---------- Xgboost_model.ipynb (containing the xgboost model for preticting the speed of the test dataset)  
 ---------- SVT_model.ipynb (containing the SVT model for preticting the speed of the test dataset)  
----------- xgb_speed_prediction.csv (prediction result by using the Xgboost model)  
----------- svt_speed_prediction.csv (prediction result by using the SVT model)  
+---------- xgb_speed_prediction.csv (predicted result by using the Xgboost model)  
+---------- svt_speed_prediction.csv (predicted result by using the SVT model)  
 
 ## 2. How to run these models:
 
@@ -28,6 +28,7 @@ The train.csv and test.csv are downloaded from the kaggle competitions, and the 
           * run all the codes, the submission csv will be saved in the current working path
           
 ## 3. The submission results:
+My teamname in kaggle competition is "".
 I wrote two models, so it's fine to choose the one that makes better performance in the test set.
 
 ## LICENSE
