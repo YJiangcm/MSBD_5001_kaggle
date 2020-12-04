@@ -3,7 +3,7 @@ This repository contains the data and codes for MSBD_5001_kaggle_competition. Al
 
 The train.csv and test.csv are downloaded from the kaggle competitions, and the weather.csv is crawled from  http://www.worldweatheronline.com/.
 
-## 1. This folder contains 1 subfolder and 4 files:
+## 1. The "MSBD_5001_kaggle" folder contains 1 subfolder and 4 files:
 
 ---------- data \
 -------------------- train.csv (containing the train dataset) \
@@ -26,6 +26,9 @@ The train.csv and test.csv are downloaded from the kaggle competitions, and the 
           * open the SVT_model.ipynb
           * the required packages include: numpy, pandas, time
           * run all the codes, the submission csv will be saved in the current working path
+          
+## 3. The submission results:
+I wrote two models, so it's fine to choose the one that makes better performance in the test set.
 
 ## LICENSE
 Please refer to [MIT License Copyright (c) 2020 YJiangcm](https://github.com/YJiangcm/MSBD_5001_kaggle/blob/master/LICENSE)
