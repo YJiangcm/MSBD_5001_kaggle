@@ -28,7 +28,7 @@ The train.csv and test.csv are downloaded from the kaggle competition, and the w
           * run all the codes, the submission csv will be saved in the current working path
           
 ## 3. The submission results:
-My teamname in kaggle competition is "".
+My teamname in kaggle competition is "". \
 I wrote two models, so it's fine to choose the one that makes better performance in the test set.
 
 ## LICENSE
