@@ -30,7 +30,7 @@ The train.csv and test.csv are downloaded from the kaggle competition, and the w
           * run all the codes, the submission csv "svt_speed_prediction.csv" will be saved in the current working path
           
 ## 3. The submission results:
-The final submission result is "svt_speed_prediction.csv".
+The final submission result is "ensemble_speed_prediction.csv".
 
 ## LICENSE
 Please refer to [MIT License Copyright (c) 2020 YJiangcm](https://github.com/YJiangcm/MSBD_5001_kaggle/blob/master/LICENSE)
