@@ -20,12 +20,12 @@ The train.csv and test.csv are downloaded from the kaggle competition, and the w
 ### 2.1 Xgboost model
           * open the Xgboost_model.ipynb
           * the required packages include: numpy, pandas, datetime, warnings, matplotlib, seaborn, sklearn, xgboost
-          * run all the codes, the submission csv will be saved in the current working path
+          * run all the codes, the submission csv "xgb_speed_prediction.csv" will be saved in the current working path
 
 ### 2.2 SVT model
           * open the SVT_model.ipynb
           * the required packages include: numpy, pandas, time
-          * run all the codes, the submission csv will be saved in the current working path
+          * run all the codes, the submission csv "svt_speed_prediction.csv" will be saved in the current working path
           
 ## 3. The submission results:
 My teamname in kaggle competition is "". \
